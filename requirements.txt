@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+pyautogui
+psutil
+requests
+screen-brightness-control
+
+
+pip install -r requirements.txt
