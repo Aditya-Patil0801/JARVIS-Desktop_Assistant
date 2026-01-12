@@ -38,5 +38,6 @@ A Python-based voice assistant that performs a wide range of desktop automation 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ninad-18/jarvis-assistant.git
-cd jarvis-assistant
+git clone https://github.com/Aditya-Patil0801/Jarvis-Desktop_Assistant.git
+cd Jarvis-Desktop_Assistant
+
